@@ -3,6 +3,7 @@ const TokenContract = artifacts.require("TokenContract");
 const Web3 = require("web3");
 const addresses = require("../data/addresses");
 const { expect } = require("chai");
+require('dotenv').config();
 
 module.exports = async (cb) => {
     try {
