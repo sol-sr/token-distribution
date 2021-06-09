@@ -1,0 +1,20 @@
+{
+    "values": [
+        {
+            "address": "0x54c4f15930BFd262161FE69bFa1fCC4db7707a37",
+            "amount": "1000"
+        },
+        {
+            "address": "0x4F684937b5fa2793A496E96Df2c0056dca1D5F53",
+            "amount": "100"
+        },
+        {
+            "address": "0x5a802fE8DECCfB856462f45F66776b093638eB4C",
+            "amount": "10"
+        },
+        {
+            "address": "0xA31e8c2c6c483eef810F8a191050af90bD8b5c8F",
+            "amount": "1"
+        }
+    ]
+}
